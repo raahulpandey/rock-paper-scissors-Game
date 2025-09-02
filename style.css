@@ -37,10 +37,12 @@ img {
 
 .score-board {
     display: flex;
-    justify-content: center;
+    justify-content: center; 
     align-items: center;
     font-size: 2rem;
+    gap: 5rem; 
 }
+
 #userscore, #computerscore {
     font-size: 4rem;
 }
